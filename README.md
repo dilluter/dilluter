@@ -7,14 +7,14 @@
 ### 🔎 Sobre mim
 
 - 🎓 Igor Bruno Andrade de Barros  
-- 👨‍💻 Curioso por tecnologia e movido a resolver problemas  
+- 👨‍💻 Cursando ADS
 - 📚 Atualmente focado em Java, Python, Banco de Dados e Estrutura de Dados  
 - 🤝 Aberto a projetos, freelas e qualquer oportunidade pra aprender mais na prática  
 - 🚀 Tô sempre correndo atrás de melhorar e evoluir no que faço  
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/igor-bruno-andrade)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=500)](https://www.linkedin.com/in/igor-bruno-andrade)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&logoWidth=30)](https://www.instagram.com/igor_.dtr/)
 
 ---
