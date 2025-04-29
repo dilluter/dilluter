@@ -1,6 +1,6 @@
 ## 👋 E aí! Seja bem-vindo ao meu GitHub — Igor Bruno
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+Git+%7C+HTML+%7C+CSS+%7C+Angular+%7C+Spring+Boot;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+Git+%7C+%7C+Angular;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
 
 ---
 
@@ -14,8 +14,8 @@
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=75)](https://www.linkedin.com/in/igor-bruno-andrade)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&logoWidth75)](https://www.instagram.com/igor_.dtr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/igor-bruno-andrade)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=40)](https://www.instagram.com/igor_.dtr/)
 
 ---
 
