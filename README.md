@@ -10,6 +10,7 @@
 - 📚 Atualmente focado em Java, Python, Banco de Dados e Estrutura de Dados  
 - 🤝 Aberto a projetos, freelas e qualquer oportunidade pra aprender mais na prática  
 - 🚀 Tô sempre correndo atrás de melhorar e evoluir no que faço  
+- 💼 Estagiário de Desenvolvimento no Sicoob <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQG0jLiF7TkhXYjeO3p9SxTIXaHXZJJOZGA&s" alt="Sicoob" width="20"/>
 
 ### 🌐 Redes Sociais
 
