@@ -5,12 +5,12 @@
 
 ### 🔎 Sobre mim
 
-- 🎓 Igor Bruno Andrade de Barros  
-- 👨‍💻 Cursando ADS.
-- 📚 Atualmente focado em Java, Spring e Angular.
-- 🤝 Aberto a projetos, freelas e qualquer oportunidade pra aprender mais na prática. 
-- 🎯 Em constante evolução, sempre aprendendo novas ferramentas e aprimorando minhas práticas.
-- 💼 Estagiário de Desenvolvimento no Sicoob 
+- 🎓 Igor Bruno Andrade de Barros
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 📌 Com foco em Java, Spring e Angular
+- 💼 Atualmente atuando como Estagiário de Desenvolvimento no Sicoob, onde participo de projetos práticos e colaborativos
+- 🚀 Em constante evolução, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades técnicas
+- 🤝 Aberto a projetos e freelas que contribuam para meu desenvolvimento profissional e aprofundem meu conhecimento na prática
 
 ### 🌐 Redes Sociais
 
