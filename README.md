@@ -10,7 +10,7 @@
 - 📚 Atualmente focado em Java, Spring e Angular.
 - 🤝 Aberto a projetos, freelas e qualquer oportunidade pra aprender mais na prática. 
 - 🎯 Em constante evolução, sempre aprendendo novas ferramentas e aprimorando minhas práticas.
-- 💼 Estagiário de Desenvolvimento no Sicoob <img src="https://w1.pngwing.com/pngs/746/893/png-transparent-bank-logo-system-of-credit-unions-of-brazil-bancoob-symbol-text-yellow-line.png" alt="Sicoob" width="20"/>  
+- 💼 Estagiário de Desenvolvimento no Sicoob 
 
 ### 🌐 Redes Sociais
 
