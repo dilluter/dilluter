@@ -32,7 +32,6 @@
 - Angular + Spring Boot Fullstack (Udemy)
 
 ---
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&logoWidth=30)
@@ -41,7 +40,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&logoWidth=30)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white&logoWidth=30)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white&logoWidth=30)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&logoWidth=30)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=30)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=30)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&logoWidth=30)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=30)
