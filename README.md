@@ -3,14 +3,14 @@
 
 ---
 
-### 🔎 Sobre mim
+### Sobre mim
 
-- 🎓 Igor Bruno Andrade de Barros
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 📌 Foco em Java, Spring e Angular
-- 💼 Estagiário de Desenvolvimento no Sicoob, atuando em projetos colaborativos e com aplicação prática de tecnologias
-- 🚀 Sempre em busca de evolução, aprendendo novas ferramentas e aprimorando minhas habilidades técnicas
-- 🤝 Aberto a projetos e freelas que me desafiem e contribuam para meu desenvolvimento profissional
+-  Igor Bruno Andrade de Barros
+-  Estudante de Análise e Desenvolvimento de Sistemas
+-  Foco em Java, Spring e Angular
+-  Estagiário de Desenvolvimento no Sicoob, atuando em projetos colaborativos e com aplicação prática de tecnologias
+-  Sempre em busca de evolução, aprendendo novas ferramentas e aprimorando minhas habilidades técnicas
+-  Aberto a projetos e freelas que me desafiem e contribuam para meu desenvolvimento profissional
 
 ### 🌐 Redes Sociais
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧠 Certificados
+### Certificados
 
 - Defesa de Redes (Cisco)
 - Introdução à Cibersegurança (Cisco)
@@ -33,7 +33,7 @@
 - Angular + Spring Boot Fullstack (Udemy)
 
 ---
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&logoWidth=30)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30)
