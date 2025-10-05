@@ -55,5 +55,21 @@
 ---
 
 ### Estatísticas do GitHub:
-<img src="https://github-readme-stats.vercel.app/api?username=dilluter&show_icons=true&include_all_commits=false&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363d&ring_color=58A6FF" alt="Estatísticas do GitHub de dilluter" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilluter&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363d" alt="Linguagens mais usadas por dilluter" />
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dilluter&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363d&ring_color=58A6FF"
+    alt="GitHub Stats"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilluter&layout=compact&langs_count=8&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363d"
+    alt="Top Languages"
+    height="160"
+  />
+</div>
+
+</div>
+
+
 
