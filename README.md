@@ -1,18 +1,14 @@
-## 👋 E aí! Seja bem-vindo ao meu GitHub — Igor Bruno
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+Angular+%7C+MySql+%7C+NoSql+%7C+Git;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
+##E aí! Seja bem-vindo ao meu GitHub — Igor Bruno
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+%7C+Angular+%7C+Python+%7C+MySql+%7C+NoSql+%7C+Git;Entre+um+commit+e+outro,+sempre+tem+um+cafe+envolvido." alt="Typing SVG" />
 
 ---
 
 ### Sobre mim
+-  Desenvolvedor Fullstack dedicado a criar soluções de ponta a ponta, unindo back-end e front-end.
+-  Motivado por desafios, busco transformar problemas complexos em soluções robustas e escaláveis.
+-  Explorando o potencial da Inteligência Artificial em Java para desenvolver soluções inovadoras.
 
--  Igor Bruno Andrade de Barros
--  Estudante de Análise e Desenvolvimento de Sistemas
--  Foco em Java, Spring e Angular
--  Estagiário de Desenvolvimento no Sicoob, atuando em projetos colaborativos e com aplicação prática de tecnologias
--  Sempre em busca de evolução, aprendendo novas ferramentas e aprimorando minhas habilidades técnicas
--  Aberto a projetos e freelas que me desafiem e contribuam para meu desenvolvimento profissional
-
-### 💬 Contato
+### Contato
 <a href="https://www.linkedin.com/in/igor-bruno-andrade" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
