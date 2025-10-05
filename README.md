@@ -12,12 +12,12 @@
 -  Sempre em busca de evolução, aprendendo novas ferramentas e aprimorando minhas habilidades técnicas
 -  Aberto a projetos e freelas que me desafiem e contribuam para meu desenvolvimento profissional
 
-### 💬Redes Sociais
+### 💬 Contato
 <a href="https://www.linkedin.com/in/igor-bruno-andrade" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/igor_.dtr/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href="mailto:igordf2502@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 ---
