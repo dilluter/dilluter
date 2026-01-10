@@ -50,22 +50,17 @@
 
 ---
 
-### Estatísticas do GitHub:
+### Estatísticas do GitHub
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dilluter&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363d&ring_color=58A6FF"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilluter&theme=github_dark"
     alt="GitHub Stats"
     height="160"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilluter&layout=compact&langs_count=8&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363d"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilluter&theme=github_dark"
     alt="Top Languages"
     height="160"
   />
 </div>
-
-</div>
-
-
-
