@@ -29,9 +29,6 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="80" height="80"/>
   </a>
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Mockito/Testing" width="80" height="80"/>
-  </a>
     <a href="https://angularjs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="80" height="80"/>
   </a>
