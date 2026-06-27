@@ -1,11 +1,11 @@
 ### E aí! Seja bem-vindo ao meu GitHub — Igor Bruno
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+%7C+Angular+%7C+Swagger+%7C+Sql+%7C+NoSql+%7C+Git;Entre+um+commit+e+outro,+sempre+tem+um+caf%C3%A9+envolvido." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+%7C+Angular+%7C+React+%7C+Sql+%7C+Docker+%7C+Git;Entre+um+commit+e+outro,+sempre+tem+um+caf%C3%A9+envolvido." alt="Typing SVG" />
 
 ---
 
 ### Sobre mim
 - Desenvolvedor **Fullstack**, focado em entregar soluções completas (back-end + front-end)
-- Aplicação de **testes automatizados** (unitários e integração) em Java e Angular
+- Aplicação de **testes automatizados** (unitários e integração)
 - Desenvolvimento de **APIs bem definidas e documentadas** com Swagger/OpenAPI
 - Motivado por desafios, transformo problemas complexos em soluções **robustas e escaláveis**
 
